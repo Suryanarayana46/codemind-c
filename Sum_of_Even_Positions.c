@@ -12,9 +12,9 @@ int main()
     {
         if(i%2==0)
         {
-        sum=sum+a[i];
+            sum=sum+a[i];
         }
     }
     printf("%d",sum);
-    
 }
+    
